@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "lib": [         // Specifying "lib" overwrites defaults (stops import of HTML DOM stuff).
+            "es5"
+        ],
+        "target": "es3"  // In case TypeScript is used, this will compile to ECMAScript 3 (ExtendScript!) compatible code.
+    }
+}

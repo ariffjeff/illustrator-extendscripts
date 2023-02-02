@@ -1,0 +1,26 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "node-debug",
+            "program": "${file}",
+            "skipFiles": [
+                "<node_internals>/**"
+            ]
+        },
+        {
+            "type": "extendscript-debug",
+            "request": "launch",
+            "name": "extendscript-debug",
+            "program": "${file}",
+            "targetSpecifier": "illustrator-25.064", // Found in Output tab
+            "engineName": "main", // Found in Output tab
+            // "cwd": "${workspaceFolder}",
+            // "stopOnEntry": false,
+            // "trace": true
+        }
+    ],
+    "compounds": []
+}

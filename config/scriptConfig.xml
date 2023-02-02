@@ -1,0 +1,28 @@
+<root>
+  <filePaths>
+    <ait>
+      <proof>C:/Users/Matt/Google Drive/Work/_Templates/oneLookSignsProof_horizontal.ait</proof>
+      <verticalPoleBanner>C:\Users\Matt\Google Drive\Work\_Templates\verticalPoleBanner.ait</verticalPoleBanner>
+    </ait>
+  </filePaths>
+  <presets>
+    <PDF>
+      <proofPDF>[Smallest File Size]</proofPDF>
+    </PDF>
+  </presets>
+  <docScale>
+    <textFrameIdentifier>DOCSCALE_nUBZ3xDGnUBZ3xDGnUBZ3xDG</textFrameIdentifier>
+  </docScale>
+  <defaults>
+    <scriptPanel>
+      <buttonsPerRow>4</buttonsPerRow>
+    </scriptPanel>
+  </defaults>
+  <userOptions>
+    <scriptPanel>
+      <settings>
+        <runOnAppStartup>0</runOnAppStartup>
+      </settings>
+    </scriptPanel>
+  </userOptions>
+</root>
